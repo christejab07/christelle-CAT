@@ -1,2 +1,2 @@
-# Javascript-CAT-
+# Christelle-CAT-
 Simple calculator
